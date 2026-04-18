@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for South Carolina, US
 
-> Free BeamStation sample export with 46 rows and masked direct-contact fields.
+> Free BeamStation sample export with 42 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `116113` |
 | Location | South Carolina |
 | Category | Restaurants |
-| Full dataset size | 467 records |
-| Free sample size | 46 records (9.85%) |
-| Last export | 2026-04-08T00:56:23.529453+00:00 |
+| Full dataset size | 426 records |
+| Free sample size | 42 records (9.86%) |
+| Last export | 2026-04-15T06:40:40.209637+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-south-carolina-us-sample-116113/releases/download/sample-latest/beamstation_116113_restaurants-us-sc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
