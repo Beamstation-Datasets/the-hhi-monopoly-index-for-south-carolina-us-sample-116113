@@ -1,12 +1,12 @@
 {
-  "export_job_id": "34716706-c829-4e6c-acd3-dedf5d5de970",
+  "export_job_id": "632f535c-aef9-4e18-adbe-84bc7717d085",
   "id_short": 116113,
-  "published_at": "2026-04-11T07:03:28Z",
+  "published_at": "2026-04-18T07:22:05Z",
   "repo_name": "the-hhi-monopoly-index-for-south-carolina-us-sample-116113",
   "sample_asset_name": "beamstation_116113_restaurants-us-sc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/116113/beamstation_116113_restaurants-us-sc_SAMPLE_DIST.csv",
-  "sample_records": 46,
-  "sample_sha256": "e8130084c6122921cdcbf6a8680e5a8080f546d9082e8e211db4aa4ff2b03fc1",
-  "sample_size_bytes": 196181,
-  "total_records": 467
+  "sample_records": 42,
+  "sample_sha256": "b59b939cb9823b6e0fe068e54ab51725cebbfad280ff0df612a31acba6b11ba4",
+  "sample_size_bytes": 179538,
+  "total_records": 426
 }
